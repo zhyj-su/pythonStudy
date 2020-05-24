@@ -1,0 +1,5 @@
+print ('I love python')
+print('--------------')
+print('1+1=',(1+1))
+print('--------------')
+print('I Love python\n'*5)
